@@ -1,19 +1,49 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Sr Manager IT Infrastructure
+- company: CareCentrix Inc
+  position: Sr Manager IT Infrastructure
+  location: Remote
+  duration: Oct, 2024 &mdash; Present
+  summary: Reporting to VP of IT Infrastructure, Sr Manager of IT Infrastructure is responsible for providing oversight, guidance and direction to the Windows Engineering team as well as assisting the VP with departmental large projects, vendor relationships, and stakeholder management.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+#  Manager IT Infrastructure
+- company: CareCentrix Inc
+  position: Manager IT Infrastructure
+  location: Remote
+  duration: Mar, 2022 &mdash; Oct, 2024
+  summary: Reporting to Director of Business Technology Infrastructure, the Manager IT Infrastructure is responsible for providing oversight, guidance and direction to the Windows Engineering team as well as assisting the Director with large projects, vendor relationships, and stakeholder management. The team manages Microsoft products, VMware Infrastructure, datacenter server and storage technologies, and corporate cloud infrastructure.
 
+#  Lead Systems Engineer
+- company: CareCentrix Inc
+  position: Lead Systems Engineer
+  location: Remote
+  duration: Oct, 2020 &mdash; Mar, 2022
+  summary: Reporting to the Sr Director of Business Technology Infrastructure, the Lead Systems Engineer is responsible for providing oversight, guidance and direction to the Windows Engineering team as well as assisting the Sr Director with large projects, vendor relationships, and stakeholder management. The Windows Engineering team is responsible for Microsoft products such as, Windows Server, SCCM, Exchange & SharePoint. VMware Infrastructure management and oversight, including but not limited to VMware ESX and vCenter as well as nightly backup of the virtual infrastructure. All datacenter server and storage technologies including administration of the Cisco UCS Environment, Dell MX Blade Chassis, HPe Nimble & Netapp Storage arrays.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  #  Sr Systems Architect
+- company: CareCentrix Inc
+  position: Sr Systems Architect
+  location: Remote
+  duration: Nov, 2018 &mdash; Oct, 2020
+  summary: Key contributor of the Server administration & Engineering Team, responsible for the design, implementation, and support of the Windows Server environment. This includes but is not limited to, Windows Server, SCCM, Exchange, SharePoint, VMware ESX, vCenter, and nightly backup of the virtual infrastructure. All datacenter server and storage technologies including administration of the Cisco UCS Environment, Dell MX Blade Chassis, HPe Nimble & Netapp Storage arrays. Some Notable Projects during this timeframe includes <ul class="resume-item-list"><li>Corporate BC/DR Implementation</li><li>Exchange 2013 Emergency Implmentation & Migration from Exchange 2007</li><li>Cisco UCS FI Migration/Swap</li></ul>
+
+  #  Network Engineer III
+- company: St Josephs | Candler Hospital System
+  position: Network Engineer III
+  location: Savannah, GA
+  duration: Mar, 2018 &mdash; Nov, 2018
+  summary: Responsible for maintaining & planning enterprise infrastructure projects and implementing enterprise hardware & software lifecycle policies. Maintained a variety of different enterprise storage arrays and worked with vendors to plan future expansions to ensure capacity for ongoing and future data needs. Aided in maintenance of company VMware Horizon View environment including the planning of upgrades to vSphere & Horizon software packages as well as planning for future hardware purchases to maintain company growth. Implemented and upgraded aging RightFAX infrastructure to latest supported version. Tasked with finding possible efficiency improvements to department workflows including replacing the company imaging system and providing the tools and education for analysts to take a more hands on roll in the maintenance of their applications servers to offset department labor shortages.
+
+  #  Sr Systems Engineer
+- company: Memorial Health University Medical Center
+  position: Sr Systems Engineer
+  location: Savannah, GA
+  duration: Jan, 2014 &mdash; Mar, 2018
+  summary: Responsible for Tier 3 support and assisting Leads or other System Engineer team members in the installation, maintenance, documentation, security, backup, troubleshooting and support of all server systems. This position works closely with other IS Support Team Members demonstrating authoritative experience and knowledge with standard concepts, practices and procedures for system administration acting with minimal supervision. Office365 Administrator
+
+  #  Systems Engineer
+- company: Memorial Health University Medical Center
+  position: Systems Engineer
+  location: Savannah, GA
+  duration: July, 2012 &mdash; Jan, 2014
+  summary: Responsible for Tier 3 support and assisting other IS team members in installation, maintenance, documentation, security, backup, troubleshooting, & support of all server systems. Works closely with other team members to provide assistance in implementation of application software, diagnosis of semi-complicated system problems, and day to day maintenance of Memorial's application system hardware and OS environment.

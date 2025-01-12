@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Andrew Amason"
+description: "Sr Manager IT Infrastructure | Technology Leader"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,22 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Andrew Amason"
+resume_title:                   "Sr Manager IT Infrastructure | Technology Leader"
+
+#Date Formatting
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "andrew@andrewamason.tech"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "912-678-2835"
+resume_contact_address:         "PO Box 1875, Sylvania GA 30467"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "PO Box 1875, Sylvania GA 30467 • 912-678-2835 • andrew@andrewamason.tech"
+display_header_contact_info:    "True"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>As a seasoned IT Infrastructure leader with over a decade of experience, I have a proven track record in designing, implementing, and managing complex systems across diverse industries. Currently serving as the Senior Manager of IT Infrastructure at CareCentrix Inc., I oversee a team of highly skilled and diverse Server Engineers, drive large-scale projects, and manage vendor relationships to ensure seamless IT operations. My expertise encompasses Microsoft products, VMware & server architecture, Datacenter, storage technologies, as well as corporate cloud infrastructure. I am committed to leveraging my technical acumen and leadership skills to drive innovation and operational excellence in IT infrastructure.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,19 +42,19 @@ resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_github_url:            "https://github.com/andrewamason"
+  #resume_twitter_url:           "https://twitter.com/andrewamason"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_facebook_url:          "https://www.facebook.com/andrewamason"
+  resume_linkedin_url:          "https://www.linkedin.com/in/andrewamason"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  resume_website_url:           "https://andrewamason.tech"
+  #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
@@ -61,3 +63,4 @@ resume_theme:                   default
 # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
+
