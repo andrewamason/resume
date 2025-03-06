@@ -2,13 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: Microsoft365 Migration & Implementation
-  role: Key Contributor & Project Manager
+  role: Key Contributor, Team & Project Manager
   duration: 2022 &mdash; Present
   # url: "#"
   description: The project was broken down to multiple smaller projects to allow the company to adapter by comfortably - <ul class="resume-item-list"><li>2021 - Skype for Business/Office Communicator - Microsoft Teams</li><li>2022 - Exchange 2019 - Echange Online Migration</li><li>2023 - MS Office 2013/2016 - Microsoft Apps for Enterprise</li><li>2023 - Network Home Directory - OneDrive for Business</li><li>2024 - SharePoint 2019 - SharePoint Online</li></ul>
+
+- project: Intune Implementation
+  role: Key Contributor, Team & Project Manager
+  duration: 2023 &mdash; 2025
+  # url: "#"
+  description: Planned and Guided the implementation of Microsoft Intune for Desktop management and Mobile Device Management for the company's 2500+ devices. Lead the team in development of all configuration and compliance policies for iOS, Android, Mac, & Windows Devices. Assisted in the migraiton of desktop imaging from SCCM to Intune/Windows AutoPilot.
 
 - project: Disaster Recovery & Business Continuity
   role: Key Contributor & Project Manager
   duration: Feb 2018 &mdash; June 2018
   # url: "#"
-  description: Migrated the company's disaster recovery and business continuity plan from a manual process that took several days to an orchestrated Recovery using Veeam that was able to be fully brought up within a single day. ""
+  description: Migrated the company's disaster recovery and business continuity plan from a manual process that took several days to an orchestrated Recovery using Veeam that was able to be fully brought up within a single day.
+
+
