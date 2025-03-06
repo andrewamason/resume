@@ -1,13 +1,6 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Digital Transformation
-- project: Digital Transformation
-  role: Key Contributor & Leader
-  duration: 2018 &mdash; Present
-  # url: "#"
-  description: Additional information about the project goes here.
-
 - project: Microsoft365 Migration & Implementation
   role: Key Contributor & Project Manager
   duration: 2022 &mdash; Present
@@ -18,4 +11,4 @@
   role: Key Contributor & Project Manager
   duration: Feb 2018 &mdash; June 2018
   # url: "#"
-  description: Additional information about the project goes here.
+  description: Migrated the company's disaster recovery and business continuity plan from a manual process that took several days to an orchestrated Recovery using Veeam that was able to be fully brought up within a single day. ""

@@ -11,7 +11,7 @@
   position: Manager IT Infrastructure
   location: Remote
   duration: Mar, 2022 &mdash; Oct, 2024
-  summary: Reporting to Director of Business Technology Infrastructure, the Manager IT Infrastructure is responsible for providing oversight, guidance and direction to the Windows Engineering team as well as assisting the Director with large projects, vendor relationships, and stakeholder management. The team manages Microsoft products, VMware Infrastructure, datacenter server and storage technologies, and corporate cloud infrastructure.
+  summary: Reporting to Director of Business Technology Infrastructure, the Manager IT Infrastructure is responsible for providing oversight, guidance and direction to the Windows Engineering team as well as assisting the Director with large projects, vendor relationships, and stakeholder management. The team manages Microsoft products, VMware Infrastructure, datacenter server and storage technologies, and corporate cloud infrastructure. 
 
 #  Lead Systems Engineer
 - company: CareCentrix Inc
@@ -32,18 +32,26 @@
   position: Network Engineer III
   location: Savannah, GA
   duration: Mar, 2018 &mdash; Nov, 2018
-  summary: Responsible for maintaining & planning enterprise infrastructure projects and implementing enterprise hardware & software lifecycle policies. Maintained a variety of different enterprise storage arrays and worked with vendors to plan future expansions to ensure capacity for ongoing and future data needs. Aided in maintenance of company VMware Horizon View environment including the planning of upgrades to vSphere & Horizon software packages as well as planning for future hardware purchases to maintain company growth. Implemented and upgraded aging RightFAX infrastructure to latest supported version. Tasked with finding possible efficiency improvements to department workflows including replacing the company imaging system and providing the tools and education for analysts to take a more hands on roll in the maintenance of their applications servers to offset department labor shortages.
+  summary: Responsible for maintaining & planning enterprise infrastructure projects and implementing enterprise hardware & software lifecycle policies. Maintained a variety of different enterprise storage arrays and worked with vendors to plan future expansions to ensure capacity for ongoing and future data needs. Aided in maintenance of company VMware Horizon View environment including the planning of upgrades to vSphere & Horizon software packages as well as planning for future hardware purchases to maintain company growth. Implemented and upgraded aging RightFax infrastructure to latest supported version. Tasked with finding possible efficiency improvements to department workflows including replacing the company imaging system and providing the tools and education for analysts to take a more hands on roll in the maintenance of their applications servers to offset department labor shortages.
 
   #  Sr Systems Engineer
 - company: Memorial Health University Medical Center
   position: Sr Systems Engineer
   location: Savannah, GA
   duration: Jan, 2014 &mdash; Mar, 2018
-  summary: Responsible for Tier 3 support and assisting Leads or other System Engineer team members in the installation, maintenance, documentation, security, backup, troubleshooting and support of all server systems. This position works closely with other IS Support Team Members demonstrating authoritative experience and knowledge with standard concepts, practices and procedures for system administration acting with minimal supervision. Office365 Administrator
+  summary: Responsible for VMware vSphere infrastructure maintenance as well as any troubleshooting and hardware maintenance, ensuring high availability of Memorial Virtual Infrastructure. Maintained IBM Tivoli Storage Manager Backup system including implementing HP StoreOnce Virtual Tape Library to aid in significantly faster backup and recovery of Memorial data. Also, implemented Veeam Backup & Replication system to backup over 700 Virtual Machines bi-monthly to HP StoreOnce. Implemented and maintained various Windows servers for different products; led planning and implementation of numerous infrastructure projects. Key engineer in the Go-Live of Memorial’s Office 365 Exchange migration from Novell GroupWise taking a lead role in the administration and maintenance of the new Exchange Online environment. Responsible for the planning and execution of Memorial disaster recovery environment ensuring appropriate resources were allocated from cold site to recover 75% of high priority systems within 48 hours of disaster declaration.
 
   #  Systems Engineer
 - company: Memorial Health University Medical Center
   position: Systems Engineer
   location: Savannah, GA
   duration: July, 2012 &mdash; Jan, 2014
-  summary: Responsible for Tier 3 support and assisting other IS team members in installation, maintenance, documentation, security, backup, troubleshooting, & support of all server systems. Works closely with other team members to provide assistance in implementation of application software, diagnosis of semi-complicated system problems, and day to day maintenance of Memorial's application system hardware and OS environment.
+  summary: Maintained VMware vSphere infrastructure including Host updates & troubleshooting, hardware maintenance, ensuring high availability of Memorial Virtual Infrastructure for over 700 Virtual Servers. Implemented and supported various Windows servers for different products and provided guidance in planning numerous infrastructure projects.
+
+ #  IT Intern
+- company: The Home Depot Store Support Center
+  position: IT Intern
+  location: Vinings, GA
+  duration: Summer 2011	
+  summary: Maintained VMware View infrastructure including image updates, troubleshooting thin client issues, and consulting end users to develop solutions to streamline workflow and support. Worked with AppSense User Virtualization to develop secure portable laptop for disaster recovery scenarios to ensure customer service could go unhindered. Worked on numerous teams to develop future solutions for Home Depot to provide growth and develop a significant competitive advantage.
+

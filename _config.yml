@@ -25,7 +25,7 @@ resume_contact_address:         "PO Box 1875, Sylvania GA 30467"
 resume_header_contact_info:     "PO Box 1875, Sylvania GA 30467 • 912-678-2835 • andrew@andrewamason.tech"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>As a seasoned IT Infrastructure leader with over a decade of experience, I have a proven track record in designing, implementing, and managing complex systems across diverse industries. Currently serving as the Senior Manager of IT Infrastructure at CareCentrix Inc., I oversee a team of highly skilled and diverse Server Engineers, drive large-scale projects, and manage vendor relationships to ensure seamless IT operations. My expertise encompasses Microsoft products, VMware & server architecture, Datacenter, storage technologies, as well as corporate cloud infrastructure. I am committed to leveraging my technical acumen and leadership skills to drive innovation and operational excellence in IT infrastructure.</p>"
+resume_header_intro: "<p>As a seasoned IT Infrastructure leader with over a decade of experience, I have a proven track record in designing, implementing, and managing complex systems across diverse industries. Currently serving as the Senior Manager of IT Infrastructure at CareCentrix Inc., I oversee a team of highly skilled and diverse server engineers, drive large-scale projects, and manage vendor relationships to ensure seamless IT operations. My expertise encompasses Microsoft products, the VMware technologies stack, Linux/Unix Operating Systems, datacenter architecture, storage technologies, as well as corporate cloud infrastructure. I am committed to leveraging my technical acumen and leadership skills to drive innovation and operational excellence in IT infrastructure.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -48,13 +48,13 @@ resume_section_interests:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/andrewamason"
-  #resume_twitter_url:           "https://twitter.com/andrewamason"
-  #resume_dribbble_url:          "https://dribbble.com/jag"
-  #resume_facebook_url:          "https://www.facebook.com/andrewamason"
+  #resume_twitter_url:           ""
+  #resume_dribbble_url:          ""
+  #resume_facebook_url:          ""
   resume_linkedin_url:          "https://www.linkedin.com/in/andrewamason"
-  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_instagram_url:         ""
   resume_website_url:           "https://andrewamason.tech"
-  #resume_medium_url:            "https://medium.com/@jglovier"
+  #resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings

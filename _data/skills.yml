@@ -1,17 +1,16 @@
 # Skills
 # Organizational leadership
 - skill: Organizational leadership
-  description: I have years of experience leading various organizations, from community groups to business departments. I excel in public speaking, mentoring, and coordinating people and events, and can effectively lead in any situation.
+  description: Extensive experience leading various organizations, from community groups to business departments. Proficient in public speaking, mentoring, and coordinating people and events.
 
 # Communications strategy
 - skill: Communications strategy
-  description: I have experience developing and implementing communications strategies. Experience taking complex technical information and translating it into layman's terms for a variety of audiences.
+  description: Highly effective in translating complex technical information into layman's terms for diverse audiences.
 
 # Team Buidling and Development
 - skill: Team Building and Development
-  description: I have experience building and developing teams in a variety of contexts. I have experience with team building and development, and have built and developed teams in a variety of environments & situations.
+  description:  Proven ability to build and develop teams in various environments and situations.
 
 # Project management
-- skill: Project management
-  description: I have managed projects from small to large, from simple to complex. Many of these projects required coordination with teams outside my management scope.
-- 
+- skill: Technical Leader
+  description: Expertise in Cloud Computing, Virtualization & Containerization, Windows & Linux Server, and scripting languages (PowerShell & Bash)
